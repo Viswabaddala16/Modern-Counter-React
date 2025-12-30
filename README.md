@@ -29,16 +29,17 @@ This project was built to master the following concepts:
 
 Follow these steps to run the project locally:
 
-1. **Clone the repository 2.Navigate to the project folder::**
+1. **Clone the repository :**
    ```bash
    git clone github.com
-2. **Navigate to the project folder::**
-
+2. **Navigate to the project folder :**
+    ```bash
     cd your-repo-name
-3. **Install dependencies:**
-
+3. **Install dependencies :**
+    ```bash
     npm install
-4. **Run the development server:**
+4. **Run the development server :**
+    ```bash
     npm run dev
     The app should now be running at http://localhost:5173 (if using Vite).
 # 📖 How it Works
